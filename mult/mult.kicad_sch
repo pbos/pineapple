@@ -158,7 +158,7 @@
     (property "Datasheet" "" (at 55.88 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b315c3a3-6910-461f-b49d-561bdf5e8696))
+    (pin "1" (uuid 1275ed4f-6a92-4417-8379-3b54d2e0d95f))
     (instances
       (project "mult"
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67"
