@@ -346,6 +346,10 @@
     [
       "41fcec89-2c3a-419b-9d1d-2962d3c6916c",
       "leds"
+    ],
+    [
+      "8c1e2838-0bf6-4b12-a1e6-2b9765075731",
+      "power"
     ]
   ],
   "text_variables": {}
