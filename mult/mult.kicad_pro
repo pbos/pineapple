@@ -32,7 +32,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "no_connect_connected|584200|1257300|d432e738-6df4-4721-8114-0fe6017ea694|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -329,7 +331,23 @@
     ],
     [
       "2249c80e-b931-4fee-ab04-d512ceb5f269",
-      "channel"
+      "channel 1"
+    ],
+    [
+      "b290c7a8-131c-4f39-ab4f-62063cf2647f",
+      "channel 2"
+    ],
+    [
+      "b26d7339-1ce2-4103-8db8-9f6dbd3f09ef",
+      "channel 3"
+    ],
+    [
+      "c8627544-d82d-426a-84eb-b4928bf7d17c",
+      "channel 4"
+    ],
+    [
+      "41fcec89-2c3a-419b-9d1d-2962d3c6916c",
+      "leds"
     ]
   ],
   "text_variables": {}
