@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "winterbloom")(type "KiCad")(uri "${KIPRJMOD}/../third_party/winterbloom_kicad_library/footprints/winterbloom.pretty")(options "")(descr ""))
+)
