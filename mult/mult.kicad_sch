@@ -98,7 +98,7 @@
   (symbol (lib_id "power:GND") (at 55.88 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 328260af-d7ea-4455-bf0d-ad064530be08)
-    (property "Reference" "#PWR037" (at 55.88 54.61 0)
+    (property "Reference" "#PWR01" (at 55.88 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 55.88 53.34 0)
@@ -114,7 +114,7 @@
     (instances
       (project "mult"
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67"
-          (reference "#PWR037") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
