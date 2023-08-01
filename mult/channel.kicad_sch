@@ -917,7 +917,7 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 62.23 110.49 0) (unit 4)
+  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 62.23 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f021168-df26-45c9-8b90-d8a57bb832bc)
     (property "Reference" "U1" (at 62.23 100.33 0)
@@ -926,7 +926,7 @@
     (property "Value" "OPA1679" (at 62.23 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" (at 60.96 107.95 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 60.96 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1678.pdf" (at 63.5 105.41 0)
@@ -949,22 +949,22 @@
     (instances
       (project "mult"
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/2249c80e-b931-4fee-ab04-d512ceb5f269"
-          (reference "U1") (unit 4)
+          (reference "U1") (unit 1)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b290c7a8-131c-4f39-ab4f-62063cf2647f"
-          (reference "U2") (unit 4)
+          (reference "U2") (unit 1)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b26d7339-1ce2-4103-8db8-9f6dbd3f09ef"
-          (reference "U3") (unit 4)
+          (reference "U3") (unit 1)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/c8627544-d82d-426a-84eb-b4928bf7d17c"
-          (reference "U4") (unit 4)
+          (reference "U4") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 83.82 60.96 0) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 83.82 60.96 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25a1a4c9-ce3b-414d-ac44-35d0b527cad9)
     (property "Reference" "U1" (at 83.82 50.8 0)
@@ -973,7 +973,7 @@
     (property "Value" "OPA1679" (at 83.82 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" (at 82.55 58.42 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 82.55 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1678.pdf" (at 85.09 55.88 0)
@@ -996,16 +996,16 @@
     (instances
       (project "mult"
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/2249c80e-b931-4fee-ab04-d512ceb5f269"
-          (reference "U1") (unit 1)
+          (reference "U1") (unit 2)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b290c7a8-131c-4f39-ab4f-62063cf2647f"
-          (reference "U2") (unit 1)
+          (reference "U2") (unit 2)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b26d7339-1ce2-4103-8db8-9f6dbd3f09ef"
-          (reference "U3") (unit 1)
+          (reference "U3") (unit 2)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/c8627544-d82d-426a-84eb-b4928bf7d17c"
-          (reference "U4") (unit 1)
+          (reference "U4") (unit 2)
         )
       )
     )
@@ -1224,7 +1224,7 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 125.73 110.49 0) (unit 3)
+  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 125.73 110.49 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54897355-59d9-4b37-b090-b4356408b9a6)
     (property "Reference" "U1" (at 125.73 100.33 0)
@@ -1233,7 +1233,7 @@
     (property "Value" "OPA1679" (at 125.73 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" (at 124.46 107.95 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 124.46 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1678.pdf" (at 127 105.41 0)
@@ -1256,16 +1256,16 @@
     (instances
       (project "mult"
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/2249c80e-b931-4fee-ab04-d512ceb5f269"
-          (reference "U1") (unit 3)
+          (reference "U1") (unit 4)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b290c7a8-131c-4f39-ab4f-62063cf2647f"
-          (reference "U2") (unit 3)
+          (reference "U2") (unit 4)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b26d7339-1ce2-4103-8db8-9f6dbd3f09ef"
-          (reference "U3") (unit 3)
+          (reference "U3") (unit 4)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/c8627544-d82d-426a-84eb-b4928bf7d17c"
-          (reference "U4") (unit 3)
+          (reference "U4") (unit 4)
         )
       )
     )
@@ -1447,7 +1447,7 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 140.97 60.96 0) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:OPA1679") (at 140.97 60.96 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a193049b-5b99-43d5-81d4-e0b021f7db9f)
     (property "Reference" "U1" (at 140.97 50.8 0)
@@ -1456,7 +1456,7 @@
     (property "Value" "OPA1679" (at 140.97 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" (at 139.7 58.42 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 139.7 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1678.pdf" (at 142.24 55.88 0)
@@ -1479,16 +1479,16 @@
     (instances
       (project "mult"
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/2249c80e-b931-4fee-ab04-d512ceb5f269"
-          (reference "U1") (unit 2)
+          (reference "U1") (unit 3)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b290c7a8-131c-4f39-ab4f-62063cf2647f"
-          (reference "U2") (unit 2)
+          (reference "U2") (unit 3)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/b26d7339-1ce2-4103-8db8-9f6dbd3f09ef"
-          (reference "U3") (unit 2)
+          (reference "U3") (unit 3)
         )
         (path "/0e98ec4b-b4c7-447c-abd7-a761177a7f67/c8627544-d82d-426a-84eb-b4928bf7d17c"
-          (reference "U4") (unit 2)
+          (reference "U4") (unit 3)
         )
       )
     )
@@ -1572,7 +1572,7 @@
     (property "Value" "OPA1679" (at 26.67 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" (at 27.94 74.93 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 27.94 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa1678.pdf" (at 25.4 72.39 0)
